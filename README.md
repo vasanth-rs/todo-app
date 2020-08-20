@@ -1,3 +1,5 @@
+After Cloning Make sure you created firebase project and added required config to to src/firebase.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
